@@ -1,81 +1,32 @@
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AttractiveToad/attractivetoad/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AttractiveToad/attractivetoad/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AttractiveToad/attractivetoad/output/github-contribution-grid-snake.svg">
-  </picture>
-  <h3>Hi. Me is a full-time copy&paste developer 👨‍💻 never worked for a living since 2003 🚀</h3>
-</div>
-
-- 🔭 I’m currently working on nothing
-  
-- 🌱 I’m currently learning Java and Kotlin
-  
-- ⚡ Fun fact: I use tabs over spaces
-
----
-
-<div align="center">
-  <h3>Currently listening to</h3>
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=21dgbe4wwg7jgow2qim4ag6ay&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"></img>
-</div>
-
-<hr>
-<h3 align="center">My Skill Set</h3>
-<table><tr><td valign="top" width="33%">
-
-### Languages  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://developer.apple.com/swift/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Swift" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-### Software  
-<div align="center">  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
-<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" /></a>  
-<a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-### DevOps  
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>
-
----
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AttractiveToad/attractivetoad/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AttractiveToad/attractivetoad/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AttractiveToad/attractivetoad/output/github-contribution-grid-snake.svg">
+</picture>
+<h2 align="center">Hi. Me is a full-time copy&paste developer 👨‍💻 never worked for a living since 2003 🚀</h2>
+<p align="center">
+"In the world of code, I'm a goofy delight,
+With bytes and bugs, I'm ready to fight.
+I may be quirky, a bit of a nerd,
+But I'll write some code that's truly absurd.
+<br>
+From bugs to features, I'll make 'em sing,
+In the land of Git, I'm the coding king.
+So follow along, and let's have some fun,
+For in this repo, the laughter's never done!"
+</p>
 
 ```python
 $ neofetch
-            ```                             cele@italy
+            ```                             AttractiveToad
           `,,`      ,;cc;`                  ----------
         `;;,`     `l0NWWKl`                 Uptime: "20 years"
       `;c;,      `oXMMMMMXd,                Position: "Vienna, Austria"
-     ,;c;,      ,dNMMMMMMMNx,               Languages: ["C/CPP", "Swift", "Python", "JavaSript/TypeScript", "Java/Kotlin"]
+     ,;c;,      ,dNMMMMMMMNx,               Languages: ["C/CPP", "Swift", "Python", "JavaSript/TypeScript"]
    `,clc,      ;xNMMWXOONMMWk;              OS: ["macOS", "arch_linux"]
-  `;cll;`     ;oWMMNxc,,dNMMWO;`            Editor: "VSCode"
+  `;cll;`     ;oWMMNxc,,dNMMWO;`            DevOps: ["Linux", "Git", "Bash", "Docker", "AWS"]
   ;clll;`   `;oWMMNd,   `oXMMW0c`           Hobbies: ["Gaming", "Drawing", "Programming"]
- ,cllll;`  `cKMMMXo`     `lKMMMKc`          
+ ,cllll;`  `cKMMMXo`     `lKMMMKc`          Learning: ["Java/Kotlin"]
 `;lllll;` `lXMMMKl`       `cKMMMKc`   ```   
 `;llllll;`;oWMW0c`         `cKWWNx, ,;;,    
 `;llloool;;cx0k;            `;doc;;;;;`     
@@ -85,7 +36,7 @@ $ neofetch
    `,;clooodddddddddoolc;;,`     ;oWMMXl`   Email: "aloiszimmermann2003@gmail.com"
       `,;;;;;;;;;;;,,``           ;xXXOc    Discord: "attractivetoad"
                                    `,;,     LinkedIn: "alois-zimmermann-14255817a"
-```    
+```
 
 ---
 
