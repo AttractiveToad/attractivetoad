@@ -9,13 +9,15 @@
 
 ---
 
-- 🔭 I’m currently working on nothing  
-
-- 🌱 I’m currently learning Java and Kotlin  
-
-- ⚡ Fun fact: I use tabs over spaces  
-
-<br/>  
+<table><tr><td valign="top" width="50%">
+  <h3>Currently listening to</h3>
+  <li>🔭 I’m currently working on nothing  </li>
+  <li>🌱 I’m currently learning Java and Kotlin</li>
+  <li>⚡ Fun fact: I use tabs over spaces </li>
+</td><td valign="top" width="50%">
+    <h3>Currently listening to</h3>
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=21dgbe4wwg7jgow2qim4ag6ay&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"></img>
+</td></tr></table>
 
 ---
 
@@ -65,8 +67,9 @@
 
 <div align="center">
 <h3>Currently listening to</h3>
-
-![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=21dgbe4wwg7jgow2qim4ag6ay&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)  
+<p>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=21dgbe4wwg7jgow2qim4ag6ay&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"></img>
+</p>
 </div>
 
 ---
