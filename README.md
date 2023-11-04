@@ -24,12 +24,12 @@ If you appreciate code that works despite my best efforts, feel free to follow m
 
 ```python
 $ neofetch
-            ```                             AttractiveToad
-          `,,`      ,;cc;`                  ----------
-        `;;,`     `l0NWWKl`                 Uptime: "20 years"
-      `;c;,      `oXMMMMMXd,                Position: "Vienna, Austria"
+            ```                             attractivetoad
+          `,,`      ,;cc;`                  --------------
+        `;;,`     `l0NWWKl`                 OS: ["macOS", "arch_linux"]
+      `;c;,      `oXMMMMMXd,                Uptime: "20 years"
      ,;c;,      ,dNMMMMMMMNx,               Languages: ["C/CPP", "Swift", "Python", "JavaSript/TypeScript"]
-   `,clc,      ;xNMMWXOONMMWk;              OS: ["macOS", "arch_linux"]
+   `,clc,      ;xNMMWXOONMMWk;              Position: "Vienna, Austria"
   `;cll;`     ;oWMMNxc,,dNMMWO;`            DevOps: ["Linux", "Git", "Bash", "Docker", "AWS"]
   ;clll;`   `;oWMMNd,   `oXMMW0c`           Hobbies: ["Gaming", "Drawing", "Programming"]
  ,cllll;`  `cKMMMXo`     `lKMMMKc`          Learning: ["Java/Kotlin"]
@@ -43,6 +43,8 @@ $ neofetch
       `,;;;;;;;;;;;,,``           ;xXXOc    Discord: "attractivetoad"
                                    `,;,     LinkedIn: "alois-zimmermann-14255817a"
 ```
+
+![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png)![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png)
 
 ---
 
