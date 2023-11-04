@@ -1,31 +1,24 @@
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AttractiveToad/attractivetoad/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AttractiveToad/attractivetoad/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AttractiveToad/attractivetoad/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AttractiveToad/attractivetoad/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AttractiveToad/attractivetoad/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AttractiveToad/attractivetoad/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 <h3 align="center">Hi. Me is a full-time copy&paste developer 👨‍💻 never worked for a living since 2003 🚀</h3>
-<hr>
 
-<h3 align="center">Poem of my live</h3>
-<div align="left">
- In the world of code, I'm a goofy delight,
-  <br>
-With bytes and bugs, I'm ready to fight.
-  <br>
-may be quirky, a bit of a nerd,
-  <br>
-But I'll write some code that's truly absurd. 
-</div>
-<div align="right">
-From bugs to features, I'll make 'em sing,
-<br>
-In the land of Git, I'm the coding king.
-  <br>
-So follow along, and let's have some fun,
-  <br>
-For in this repo, the laughter's never done!
-</div>
+---
 
+Welcome to my code playground! I'm that programmer who pretends to know what they're doing. 👨‍💼
+
+🔧 My skills include:
+- Breaking things (and sometimes fixing them)
+- Commenting "TODO: Figure out what this does" and never actually figuring it out
+- Having Stack Overflow as my best friend
+
+📜 My code is like a treasure hunt, but I never left a map, and the treasure might be buried under a pile of spaghetti code. 🍝
+
+If you appreciate code that works despite my best efforts, feel free to follow me on this rollercoaster of bugs, quirks, and the occasional accidental brilliance. 😅💻
 
 ---
 
