@@ -6,8 +6,6 @@
   </picture>
 </div>
 
----
-
 <h3 align="center">Hi. Me is a full-time copy&paste developer 👨‍💻 never worked for a living since 2003 🚀</h3>
 
 Welcome to my code playground! I'm that programmer who pretends to know what they're doing. 👨‍💼
