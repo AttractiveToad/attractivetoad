@@ -23,7 +23,7 @@ If you appreciate code that works despite my best efforts, feel free to follow m
 
 ---
 
-<h3 align="center">More or less skills</h3>
+<h3 align="center">My more or less skills</h3>
 <table align="center">
   <tr>
     <td align="center">
