@@ -11,12 +11,12 @@
 
 Welcome to my code playground! I'm that programmer who pretends to know what they're doing. 👨‍💼
 
-🔧 My skills include:
+**🔧 My skills include:**
 - Breaking things (and sometimes fixing them)
 - Commenting "TODO: Figure out what this does" and never actually figuring it out
 - Having Stack Overflow as my best friend
 
-📜 My code is like a treasure hunt, but I never left a map, and the treasure might be buried under a pile of spaghetti code. 🍝
+_📜 My code is like a treasure hunt, but I never left a map, and the treasure might be buried under a pile of spaghetti code. 🍝_
 
 If you appreciate code that works despite my best efforts, feel free to follow me on this rollercoaster of bugs, quirks, and the occasional accidental brilliance. 😅💻
 
