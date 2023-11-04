@@ -5,8 +5,10 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AttractiveToad/attractivetoad/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-<h2 align="center">Hi. Me is a full-time copy&paste developer 👨‍💻 never worked for a living since 2003 🚀</h2>
 
+<h3 align="center">Hi. Me is a full-time copy&paste developer 👨‍💻 never worked for a living since 2003 🚀</h3>
+
+---
 
 Welcome to my code playground! I'm that programmer who pretends to know what they're doing. 👨‍💼
 
@@ -24,15 +26,15 @@ If you appreciate code that works despite my best efforts, feel free to follow m
 <h3 align="center">More or less skills</h3>
 <table align="center">
   <tr>
-    <td valign="top" width="33.3%" align="center">
+    <td align="center">
       <h3>Languages</h3>
         <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript,swift,java,kotlin,php,bash&theme=dark&perline=5" />
     </td>
-    <td valign="top" width="33.3%" align="center">
+    <td align="center">
       <h3>Software</h3>
       <img src="https://skillicons.dev/icons?i=ai,ps,blender,figma,matlab,wordpress,vscode,eclipse,idea,arduino&theme=dark&perline=5" />
     </td>
-    <td valign="top" width="33.3%" align="center">
+    <td align="center">
       <h3>Tools&Frameworks</h3>
       <img src="https://skillicons.dev/icons?i=cmake,gradle,bootstrap,tailwind,react,flask,nodejs,qt,git,docker&theme=dark&perline=5" />
     </td>
@@ -49,11 +51,11 @@ $ neofetch
           `,,`      ,;cc;`                  --------------
         `;;,`     `l0NWWKl`                 OS: ["macOS", "arch_linux"]
       `;c;,      `oXMMMMMXd,                Uptime: "20 years"
-     ,;c;,      ,dNMMMMMMMNx,               Languages: ["C/CPP", "Swift", "Python", "JavaSript/TypeScript"]
-   `,clc,      ;xNMMWXOONMMWk;              Position: "Vienna, Austria"
-  `;cll;`     ;oWMMNxc,,dNMMWO;`            DevOps: ["Linux", "Git", "Bash", "Docker", "AWS"]
-  ;clll;`   `;oWMMNd,   `oXMMW0c`           Hobbies: ["Gaming", "Drawing", "Programming"]
- ,cllll;`  `cKMMMXo`     `lKMMMKc`          Learning: ["Java/Kotlin"]
+     ,;c;,      ,dNMMMMMMMNx,               Position: "Vienna, Austria"
+   `,clc,      ;xNMMWXOONMMWk;              Editor: "VSCode"
+  `;cll;`     ;oWMMNxc,,dNMMWO;`            Hobbies: ["Gaming", "Programming"]
+  ;clll;`   `;oWMMNd,   `oXMMW0c`           Learning: ["Java/Kotlin"]
+ ,cllll;`  `cKMMMXo`     `lKMMMKc`          
 `;lllll;` `lXMMMKl`       `cKMMMKc`   ```   
 `;llllll;`;oWMW0c`         `cKWWNx, ,;;,    
 `;llloool;;cx0k;            `;doc;;;;;`     
@@ -65,25 +67,23 @@ $ neofetch
                                    `,;,     LinkedIn: "alois-zimmermann-14255817a"
 ```
 
-![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png)![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png)
-
 ---
 
 <div align="center">
-<h3>Connect with me</h3>  
-<a href="https://github.com/AttractiveToad" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/alois-zimmermann-14255817a" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/aloiszimmi" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/attractivetoad" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/14476649" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>
+  <h3>Connect with me</h3>  
+  <a href="https://github.com/AttractiveToad" target="_blank">
+    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://linkedin.com/in/alois-zimmermann-14255817a" target="_blank">
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://instagram.com/aloiszimmi" target="_blank">
+    <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://twitter.com/attractivetoad" target="_blank">
+    <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://stackoverflow.com/users/14476649" target="_blank">
+    <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+  </a>
 </div>
