@@ -16,6 +16,8 @@ So follow along, and let's have some fun,
 For in this repo, the laughter's never done!"
 </p>
 
+---
+
 ```python
 $ neofetch
             ```                             AttractiveToad
