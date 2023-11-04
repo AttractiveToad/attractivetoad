@@ -41,6 +41,8 @@ If you appreciate code that works despite my best efforts, feel free to follow m
 
 ---
 
+<h3 align="center">About me</h3>
+
 ```python
 $ neofetch
             ```                             attractivetoad
