@@ -24,39 +24,17 @@ If you appreciate code that works despite my best efforts, feel free to follow m
 <h3 align="center">More or less skills</h3>
 <table align="center">
   <tr>
-    <td valign="top" width="33%">
+    <td valign="top" width="33.3%" align="center">
       <h3>Languages</h3>
-      <div align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript,html,css,swift,java,kotlin,&theme=dark&perline=5" />
-        </a>
-      </div>
+        <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript,swift,java,kotlin,php,bash&theme=dark&perline=5" />
     </td>
-    <td valign="top" width="33%">
-      <h3>Backend</h3>
-      <div align="center">  
-      <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-      <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-      <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-      <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-      <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-      <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-      <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-      <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-      <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-      <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-      <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-      <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-      <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-      </div>
+    <td valign="top" width="33.3%" align="center">
+      <h3>Software</h3>
+      <img src="https://skillicons.dev/icons?i=ai,ps,blender,figma,matlab,wordpress,vscode,eclipse,idea,arduino&theme=dark&perline=5" />
     </td>
-    <td valign="top" width="33%">
-      <h3>DevOps</h3>
-      <div align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-        </a>
-      </div>
+    <td valign="top" width="33.3%" align="center">
+      <h3>Tools&Frameworks</h3>
+      <img src="https://skillicons.dev/icons?i=cmake,gradle,bootstrap,tailwind,react,flask,nodejs,qt,git,docker&theme=dark&perline=5" />
     </td>
   </tr>
 </table>  
