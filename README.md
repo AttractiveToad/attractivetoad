@@ -65,6 +65,30 @@
 
 ---
 
+```python
+$ neofetch
+            ```                             cele@italy
+          `,,`      ,;cc;`                  ----------
+        `;;,`     `l0NWWKl`                 Uptime: "20 years"
+      `;c;,      `oXMMMMMXd,                Position: "Vienna, Austria"
+     ,;c;,      ,dNMMMMMMMNx,               Languages: ["C/CPP", "Swift", "Python", "JavaSript/TypeScript", "Java/Kotlin"]
+   `,clc,      ;xNMMWXOONMMWk;              OS: ["macOS", "arch_linux"]
+  `;cll;`     ;oWMMNxc,,dNMMWO;`            Editor: "VSCode"
+  ;clll;`   `;oWMMNd,   `oXMMW0c`           Hobbies: ["Gaming", "Drawing", "Programming"]
+ ,cllll;`  `cKMMMXo`     `lKMMMKc`          
+`;lllll;` `lXMMMKl`       `cKMMMKc`   ```   
+`;llllll;`;oWMW0c`         `cKWWNx, ,;;,    
+`;llloool;;cx0k;            `;doc;;;;;`     
+`;llooooool;;;,            `,;;cllc;,`      
+ ,clooooooooolcc;;;;;;;;;cllodoc;;lk0o`     contacts
+  ,;looooooooddddddddddddddlc;, ,xNMMXo`    --------
+   `,;clooodddddddddoolc;;,`     ;oWMMXl`   Email: "aloiszimmermann2003@gmail.com"
+      `,;;;;;;;;;;;,,``           ;xXXOc    Discord: "attractivetoad"
+                                   `,;,     LinkedIn: "alois-zimmermann-14255817a"
+```    
+
+---
+
 <div align="center">
 <h3>Connect with me</h3>  
 <a href="https://github.com/AttractiveToad" target="_blank">
