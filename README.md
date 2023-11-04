@@ -7,27 +7,20 @@
   <h3>Hi. Me is a full-time copy&paste developer 👨‍💻 never worked for a living since 2003 🚀</h3>
 </div>
 
+- 🔭 I’m currently working on nothing
+  
+- 🌱 I’m currently learning Java and Kotlin
+  
+- ⚡ Fun fact: I use tabs over spaces
+
 ---
 
 <div align="center">
-  <table>
-    <tr>
-      <td valign="top">
-        <h3>My activities</h3>
-        <li>🔭 I’m currently working on nothing</li>
-        <li>🌱 I’m currently learning Java and Kotlin</li>
-        <li>⚡ Fun fact: I use tabs over spaces</li>
-      </td>
-      <td valign="top">
-        <h3>Currently listening to</h3>
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=21dgbe4wwg7jgow2qim4ag6ay&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"></img>
-      </td>
-    </tr>
-  </table>
+  <h3>Currently listening to</h3>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=21dgbe4wwg7jgow2qim4ag6ay&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"></img>
 </div>
 
----
-
+<hr>
 <h3 align="center">My Skill Set</h3>
 <table><tr><td valign="top" width="33%">
 
@@ -68,16 +61,7 @@
 
 </td></tr></table>  
 
-<br/>  
-
----
-
-<div align="center">
-<h3>Currently listening to</h3>
-<p>
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=21dgbe4wwg7jgow2qim4ag6ay&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"></img>
-</p>
-</div>
+<br/>
 
 ---
 
