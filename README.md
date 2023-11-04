@@ -1,30 +1,26 @@
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AttractiveToad/attractivetoad/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AttractiveToad/attractivetoad/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AttractiveToad/attractivetoad/output/github-contribution-grid-snake.svg">
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AttractiveToad/attractivetoad/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AttractiveToad/attractivetoad/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AttractiveToad/attractivetoad/output/github-contribution-grid-snake.svg">
+  </picture>
+  <h3>Hi. Me is a full-time copy&paste developer 👨‍💻 never worked for a living since 2003 🚀</h3>
 </div>
 
-### <div align="center">Hi. Me is a full-time copy&paste developer 👨‍💻 never worked for a living since 2003 🚀</div>  
 ---
 
 - 🔭 I’m currently working on nothing  
-  
 
 - 🌱 I’m currently learning Java and Kotlin  
-  
 
 - ⚡ Fun fact: I use tabs over spaces  
-  
 
 <br/>  
 
+---
 
-## My Skill Set  
+<h3 align="center">My Skill Set</h3>
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Languages  
 <div align="center">  
@@ -40,8 +36,6 @@
 
 </td><td valign="top" width="33%">
 
-
-
 ### Software  
 <div align="center">  
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
@@ -53,8 +47,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 ### DevOps  
 <div align="center">  
@@ -69,9 +61,18 @@
 
 <br/>  
 
+---
 
-### Connect with me  
 <div align="center">
+<h3>Currently listening to</h3>
+
+![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=21dgbe4wwg7jgow2qim4ag6ay&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)  
+</div>
+
+---
+
+<div align="center">
+<h3>Connect with me</h3>  
 <a href="https://github.com/AttractiveToad" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -86,31 +87,5 @@
 </a>
 <a href="https://stackoverflow.com/users/14476649" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=21dgbe4wwg7jgow2qim4ag6ay&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" /></div>  
-
-![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=21dgbe4wwg7jgow2qim4ag6ay&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+</a>
+</div>
