@@ -5,7 +5,9 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AttractiveToad/attractivetoad/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-<h2 align="center">Hi. Me is a full-time copy&paste developer 👨‍💻 never worked for a living since 2003 🚀</h2>
+<h3 align="center">Hi. Me is a full-time copy&paste developer 👨‍💻 never worked for a living since 2003 🚀</h3>
+
+---
 
 Welcome to my code playground! I'm that programmer who pretends to know what they're doing. 👨‍💼
 
