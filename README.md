@@ -3,26 +3,33 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AttractiveToad/attractivetoad/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AttractiveToad/attractivetoad/output/github-contribution-grid-snake.svg">
 </picture>
-<h2 align="center">Hi. Me is a full-time copy&paste developer 👨‍💻 never worked for a living since 2003 🚀</h2>
+<h3 align="center">Hi. Me is a full-time copy&paste developer 👨‍💻 never worked for a living since 2003 🚀</h3>
+<hr>
 
 <div align="right">
-  <h3>Currently listening to</h3>
 <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=21dgbe4wwg7jgow2qim4ag6ay&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"></img>
 </div>
 
-<div align="left">
-  <h3>Poem of my live</h3>
-  <p>
-    "In the world of code, I'm a goofy delight,<br>
-    With bytes and bugs, I'm ready to fight.<br>
-    I may be quirky, a bit of a nerd,<br>
-    But I'll write some code that's truly absurd.<br><br>
-    From bugs to features, I'll make 'em sing,<br>
-    In the land of Git, I'm the coding king.<br>
-    So follow along, and let's have some fun,<br>
-    For in this repo, the laughter's never done!"<br>
-  </p>
-</div>
+
+<h3>Poem of my live</h3>
+
+
+In the world of code, I'm a goofy delight,
+<br>
+With bytes and bugs, I'm ready to fight.
+<br>
+I may be quirky, a bit of a nerd,
+<br>
+But I'll write some code that's truly absurd.
+<br><br>
+From bugs to features, I'll make 'em sing,
+<br>
+In the land of Git, I'm the coding king.
+<br>
+So follow along, and let's have some fun,
+<br>
+For in this repo, the laughter's never done!
+
 
 ---
 
