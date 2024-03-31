@@ -23,26 +23,6 @@ If you appreciate code that works despite my best efforts, feel free to follow m
 
 ---
 
-<h3 align="center">My more or less skills</h3>
-<table align="center">
-  <tr>
-    <td align="center">
-      <h3>Languages</h3>
-        <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript,swift,java,kotlin,php,bash&theme=dark&perline=5" />
-    </td>
-    <td align="center">
-      <h3>Software</h3>
-      <img src="https://skillicons.dev/icons?i=ai,ps,blender,figma,matlab,wordpress,vscode,eclipse,idea,arduino&theme=dark&perline=5" />
-    </td>
-    <td align="center">
-      <h3>Tools&Frameworks</h3>
-      <img src="https://skillicons.dev/icons?i=cmake,gradle,bootstrap,tailwind,react,flask,nodejs,qt,git,docker&theme=dark&perline=5" />
-    </td>
-  </tr>
-</table>  
-
----
-
 <h3 align="center">About me</h3>
 
 ```python
