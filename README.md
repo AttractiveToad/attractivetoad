@@ -30,7 +30,7 @@ $ neofetch
             ```                             attractivetoad
           `,,`      ,;cc;`                  --------------
         `;;,`     `l0NWWKl`                 OS: ["macOS", "arch_linux"]
-      `;c;,      `oXMMMMMXd,                Uptime: "20 years"
+      `;c;,      `oXMMMMMXd,                Uptime: "21 years"
      ,;c;,      ,dNMMMMMMMNx,               Position: "Vienna, Austria"
    `,clc,      ;xNMMWXOONMMWk;              Editor: "VSCode"
   `;cll;`     ;oWMMNxc,,dNMMWO;`            Hobbies: ["Gaming", "Programming"]
