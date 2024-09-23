@@ -22,7 +22,7 @@ $ neofetch
         `;;,`     `l0NWWKl`                 OS: ["macOS", "arch_linux"]
       `;c;,      `oXMMMMMXd,                Uptime: "21 years"
      ,;c;,      ,dNMMMMMMMNx,               Position: "Vienna, Austria"
-   `,clc,      ;xNMMWXOONMMWk;              Editor: "VSCode"
+   `,clc,      ;xNMMWXOONMMWk;              Editor: "vim"
   `;cll;`     ;oWMMNxc,,dNMMWO;`            Hobbies: ["Gaming", "Programming"]
   ;clll;`   `;oWMMNd,   `oXMMW0c`           Learning: ["Java/Kotlin"]
  ,cllll;`  `cKMMMXo`     `lKMMMKc`          
