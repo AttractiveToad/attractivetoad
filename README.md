@@ -19,12 +19,12 @@ If you appreciate code that works despite my best efforts, feel free to follow m
 $ neofetch
             ```                             attractivetoad
           `,,`      ,;cc;`                  --------------
-        `;;,`     `l0NWWKl`                 OS: ["macOS", "arch_linux"]
-      `;c;,      `oXMMMMMXd,                Uptime: "21 years"
+        `;;,`     `l0NWWKl`                 OS: ["macOS", "windows"]
+      `;c;,      `oXMMMMMXd,                Uptime: "22 years"
      ,;c;,      ,dNMMMMMMMNx,               Position: "Vienna, Austria"
-   `,clc,      ;xNMMWXOONMMWk;              Editor: "vim"
+   `,clc,      ;xNMMWXOONMMWk;              Editor: "notpad"
   `;cll;`     ;oWMMNxc,,dNMMWO;`            Hobbies: ["Gaming", "Programming"]
-  ;clll;`   `;oWMMNd,   `oXMMW0c`           Learning: ["Java/Kotlin"]
+  ;clll;`   `;oWMMNd,   `oXMMW0c`           Learning: ["Java"]
  ,cllll;`  `cKMMMXo`     `lKMMMKc`          
 `;lllll;` `lXMMMKl`       `cKMMMKc`   ```   
 `;llllll;`;oWMW0c`         `cKWWNx, ,;;,    
@@ -34,7 +34,7 @@ $ neofetch
   ,;looooooooddddddddddddddlc;, ,xNMMXo`    --------
    `,;clooodddddddddoolc;;,`     ;oWMMXl`   Email: "aloiszimmermann2003@gmail.com"
       `,;;;;;;;;;;;,,``           ;xXXOc    Discord: "attractivetoad"
-                                   `,;,     LinkedIn: "alois-zimmermann-14255817a"
+                                   `,;,     
 ```
 
 ---
