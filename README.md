@@ -17,26 +17,28 @@ If you appreciate code that works despite my best efforts, feel free to follow m
 
 ```python
 $ neofetch
-            ```                             attractivetoad
-          `,,`      ,;cc;`                  --------------
-        `;;,`     `l0NWWKl`                 OS: ["macOS", "windows"]
-      `;c;,      `oXMMMMMXd,                Uptime: "22 years"
-     ,;c;,      ,dNMMMMMMMNx,               Position: "Vienna, Austria"
-   `,clc,      ;xNMMWXOONMMWk;              Editor: "notpad"
-  `;cll;`     ;oWMMNxc,,dNMMWO;`            Hobbies: ["Gaming", "Programming"]
-  ;clll;`   `;oWMMNd,   `oXMMW0c`           Learning: ["Java"]
- ,cllll;`  `cKMMMXo`     `lKMMMKc`          
-`;lllll;` `lXMMMKl`       `cKMMMKc`   ```   
-`;llllll;`;oWMW0c`         `cKWWNx, ,;;,    
-`;llloool;;cx0k;            `;doc;;;;;`     
-`;llooooool;;;,            `,;;cllc;,`      
- ,clooooooooolcc;;;;;;;;;cllodoc;;lk0o`     contacts
-  ,;looooooooddddddddddddddlc;, ,xNMMXo`    --------
-   `,;clooodddddddddoolc;;,`     ;oWMMXl`   Email: "aloiszimmermann2003@gmail.com"
-      `,;;;;;;;;;;;,,``           ;xXXOc    Discord: "attractivetoad"
-                                   `,;,     
+                            ###                   attractivetoad
+                         +++%%%                   --------------
+                         +++%%%                   OS: ["macOS", "windows"]
+                         ###                      Uptime: "22 years"
+                ++++++###%%%######                Position: "Vienna, Austria"
+                ++++++###%%%######                Editor: "notpad"
+         ++++===...===%%%+++---===#######         Hobbies: ["Gaming", "Programming"]
+      +++====:::...............:::====######      Learning: ["Java"]
+      +++====:::...............:::====######      
+      +++====::::::::::::::::::---::::===###      
+      +++====::::::::::::::::::---::::===###      
+      +++====---:::---:::---------::::---%%%      
+      ###=======------======---===::::---%%%      
+      ###=======------======---===::::---%%%      
+      ###================---======::::===%%%      
+         ####======---=========---====%%%         
+         ####======---=========---====%%%         
+         ####+++=========------===++++%%%         contacts
+             %%%+++===++++++===+++%%%%            --------
+             %%%+++===++++++===+++%%%%            Email: "aloiszimmermann2003@gmail.com"
+                %%%#########%%%%%%                Discord: "attractivetoad"
 ```
-
 ---
 
 <div align="center">
