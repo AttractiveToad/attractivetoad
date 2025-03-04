@@ -39,7 +39,7 @@ $ neofetch
              %%%+++===++++++===+++%%%%            Email: "aloiszimmermann2003@gmail.com"
                 %%%#########%%%%%%                Discord: "attractivetoad"
 
-
+```  
 
                                                     <code style="color:Green">%</code><code style="color:Green">%</code><code style="color:Green">%</code><code style="color:Green">%</code><code style="color:Green">%</code><code style="color:Green">%</code><code style="color:Green">%</code><code style="color:Green">%</code><code style="color:Green">%</code><code style="color:Green">%</code><code style="color:Green">%</code><code style="color:Green">%</code>
                                                     <code style="color:Green">%</code><code style="color:Green">%</code><code style="color:Green">%</code><code style="color:Green">%</code><code style="color:Green">%</code><code style="color:Green">%</code><code style="color:Green">%</code><code style="color:Green">%</code><code style="color:Green">%</code><code style="color:Green">%</code><code style="color:Green">%</code><code style="color:Green">%</code>
@@ -75,7 +75,6 @@ $ neofetch
 <code style="color:Green">%</code><code style="color:Green">%</code><code style="color:Green">%</code><code style="color:Green">%</code><code style="color:Green">%</code><code style="color:Green">%</code><code style="color:Green">%</code><code style="color:Green">%</code><code style="color:Green">%</code><code style="color:Green">%</code><code style="color:Green">%</code><code style="color:Green">%</code>                                                    
                                         
 
-```  
 ---
 
 <div align="center">
