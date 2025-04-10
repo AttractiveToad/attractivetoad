@@ -1,22 +1,5 @@
 <h3 align="center">Hi. Me is a full-time copy&paste developer 👨‍💻 never worked for a living since 2003 🚀</h3>
 
-${\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:\color{Black}\\;\\#\\,\\,\color{Black}\\;\\#\\,\\,\color{Black}\\;\\#\\,\\,}$\
-${\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:\color{Black}\\;\\#\\,\\,\color{RawSienna}=\color{RawSienna}\\:\*\\:\color{Black}\\;\\#\\,\\,}$\
-${\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:\color{Black}\\;\\#\\,\\,\color{RawSienna}=\color{RawSienna}\\:\*\\:\color{RawSienna}=\color{Black}\\;\\#\\,\\,}$\
-${\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:\color{Black}\\;\\#\\,\\,\color{RawSienna}=\color{RawSienna}\\:\*\\:\color{RawSienna}=\color{Black}\\;\\#\\,\\,\quad\\:}$\
-${\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:\color{Black}\\;\\#\\,\\,\color{RawSienna}=\color{RawSienna}\\:\*\\:\color{RawSienna}=\color{Black}\\;\\#\\,\\,\quad\\:\quad\\:}$\
-${\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:\color{Black}\\;\\#\\,\\,\color{RawSienna}=\color{RawSienna}\\:\*\\:\color{RawSienna}=\color{Black}\\;\\#\\,\\,\quad\\:\quad\\:\quad\\:}$\
-${\quad\\:\quad\\:\color{Black}\\;\\#\\,\\,\color{Black}\\;\\#\\,\\,\quad\\:\quad\\:\quad\\:\color{Black}\\;\\#\\,\\,\color{RawSienna}=\color{RawSienna}\\:\*\\:\color{RawSienna}=\color{Black}\\;\\#\\,\\,\quad\\:\quad\\:\quad\\:\quad\\:}$\
-${\quad\\:\quad\\:\color{Black}\\;\\#\\,\\,\color{Sepia}\\:\*\\:\color{Black}\\;\\#\\,\\,\quad\\:\color{Black}\\;\\#\\,\\,\color{RawSienna}=\color{RawSienna}\\:\*\\:\color{RawSienna}=\color{Black}\\;\\#\\,\\,\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:}$\
-${\quad\\:\quad\\:\quad\\:\color{Black}\\;\\#\\,\\,\color{Sepia}\\:\*\\:\color{Black}\\;\\#\\,\\,\color{RawSienna}=\color{RawSienna}\\:\*\\:\color{RawSienna}=\color{Black}\\;\\#\\,\\,\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:}$\
-${\quad\\:\quad\\:\quad\\:\color{Black}\\;\\#\\,\\,\color{Sepia}\\:\*\\:\color{Sepia}\\:\*\\:\color{RawSienna}\\:\*\\:\color{RawSienna}=\color{Black}\\;\\#\\,\\,\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:}$\
-${\quad\\:\quad\\:\quad\\:\quad\\:\color{Black}\\;\\#\\,\\,\color{Sepia}\\:\*\\:\color{Sepia}\\:\*\\:\color{Black}\\;\\#\\,\\,\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:}$\
-${\quad\\:\quad\\:\quad\\:\color{Sepia}\\:\*\\:\color{RawSienna}\\:\*\\:\color{Black}\\;\\#\\,\\,\color{Sepia}\\:\*\\:\color{Sepia}\\:\*\\:\color{Black}\\;\\#\\,\\,\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:}$\
-${\quad\\:\quad\\:\color{Sepia}\\:\*\\:\color{RawSienna}=\color{Black}\\;\\#\\,\\,\quad\\:\color{Black}\\;\\#\\,\\,\color{Black}\\;\\#\\,\\,\color{Sepia}\\:\*\\:\color{Black}\\;\\#\\,\\,\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:}$\
-${\color{Black}\\;\\#\\,\\,\color{Black}\\;\\#\\,\\,\color{RawSienna}\\:\*\\:\color{Black}\\;\\#\\,\\,\quad\\:\quad\\:\quad\\:\quad\\:\color{Black}\\;\\#\\,\\,\color{Black}\\;\\#\\,\\,\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:}$\
-${\color{Black}\\;\\#\\,\\,\color{Sepia}\\:\*\\:\color{Black}\\;\\#\\,\\,\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:}$\
-${\color{Black}\\;\\#\\,\\,\color{Black}\\;\\#\\,\\,\color{Black}\\;\\#\\,\\,\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:\quad\\:}$
-
 Welcome to my code playground! I'm that programmer who pretends to know what they're doing. 👨‍💼
 
 **🔧 My skills include:**
