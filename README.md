@@ -1,13 +1,6 @@
-<h3>Hi.</h3>
+<h3 align="center">Hi.</h3>
 
-I write code, sometimes on purpose.
-
-**Function: attractiveToad()**
-Description: Writes and modifies code with unpredictable outcomes.
-Side effects:
-Breaks features that were working yesterday
-Leaves cryptic comments like // needs investigation
-Pulls solutions directly from Stack Overflow
+<p align="center">I write code, sometimes on purpose.</p>
 
 ---
 
