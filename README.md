@@ -1,11 +1,13 @@
-<h3>Hi. Me is a full-time copy&paste developer.</h3>
+<h3>Hi.</h3>
 
-I'm that programmer who pretends to know what they're doing.
+I write code, sometimes on purpose.
 
-**My skills include:**
-- Breaking things (and sometimes fixing them)
-- Commenting "TODO: Figure out what this does" and never actually figuring it out
-- Having Stack Overflow as my best friend
+**Function: attractiveToad()**
+Description: Writes and modifies code with unpredictable outcomes.
+Side effects:
+Breaks features that were working yesterday
+Leaves cryptic comments like // needs investigation
+Pulls solutions directly from Stack Overflow
 
 ---
 
